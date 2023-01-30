@@ -1,0 +1,15 @@
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\bin\Debug\net6.0\qiii.exe
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\bin\Debug\net6.0\qiii.deps.json
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\bin\Debug\net6.0\qiii.runtimeconfig.json
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\bin\Debug\net6.0\qiii.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\bin\Debug\net6.0\qiii.pdb
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.csproj.AssemblyReference.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.AssemblyInfoInputs.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.AssemblyInfo.cs
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.csproj.CoreCompileInputs.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\refint\qiii.dll
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.pdb
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\qiii.genruntimeconfig.cache
+C:\Users\rayan\2.Termin\2.TerminDiv\qiii\qiii\obj\Debug\net6.0\ref\qiii.dll
